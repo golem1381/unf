@@ -1,14 +1,3 @@
-# PvResan
-
-سلام
-
-این سورس توسط ادمین اوپن شده و کاملترین سورس موجوده
-
-برای آموزش ران کردن به 
-<a href="http://www.telegram.me/nawr_i_man_bot">ادمین</a>
-پیام بدید
-
-یه تشکر  ویژه از دوستای خوبم    </br>
-<a href="http://www.telegram.me/awmir_ho3in">awmir_ho3in</a></br>
-<a href="http://www.telegram.me/FasTReaCtoR">FasTReaCtoR</a>
-
+#<b> U N F COPYRIGHT</b>
+#<i>this source dev by parsa alemi </i>
+#copyrigt 2016 parsa_alemi
